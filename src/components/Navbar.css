@@ -1,0 +1,11 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+

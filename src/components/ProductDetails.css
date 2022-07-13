@@ -1,0 +1,25 @@
+.product-details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+.product-details > * {
+    border: none;
+}
+
+.product-details:hover {
+    transform: none;
+    box-shadow: none;
+}
+
+.product-details-img {
+    max-width: 400px;
+    max-height: 400px;
+    overflow-x: scroll ;
+    padding: 30px;
+    margin: auto;
+    border: none;
+
+}
